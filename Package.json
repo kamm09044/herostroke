@@ -1,0 +1,12 @@
+{
+  "name": "herostroke",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}
